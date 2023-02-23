@@ -1,0 +1,118 @@
+body {
+  margin: 0;
+  text-align: center;
+  background-color: #97dece;
+}
+
+h1 {
+  font-family: "Lavishly Yours", cursive;
+  font-size: 82px;
+  margin: 50px auto 0 auto;
+  color: #309898;
+  line-height: 2em;
+}
+
+h2 {
+  color: #309898;
+  font-weight: bold;
+  font-size: 2.5em;
+}
+
+span {
+  font-family: "Lavishly Yours", cursive;
+}
+
+.mountain {
+  position: relative;
+  margin: 0;
+  width: 80%;
+  min-width: 800px;
+}
+
+.top-cloud {
+  position: relative;
+  margin: 70px auto 0 40%;
+  right: 10%;
+}
+
+h3 {
+  font-family: "Ubuntu", sans-serif;
+  margin: 30px auto 20px;
+  font-size: 1.8rem;
+  color: #309898;
+}
+
+.middle-container {
+  background-color: #97dece;
+}
+
+.bottom-cloud1 {
+  position: absolute;
+  left: 15%;
+}
+
+.bottom-cloud2 {
+  position: absolute;
+  right: 25%;
+  bottom: 30%;
+}
+
+.top-site {
+  background: linear-gradient(to bottom, #cbedd5 0%, #97dece);
+  margin: 0;
+}
+
+a {
+  font-family: "Ubuntu", sans-serif;
+  color: #309898;
+}
+
+.skill-row {
+  text-align: left;
+  width: 50%;
+  margin: 100px auto;
+  line-height: 1.7em;
+}
+
+.floatleft {
+  float: left;
+  width: 30%;
+  margin-right: 30px;
+}
+
+.floatright {
+  float: right;
+  width: 30%;
+  margin-left: 30px;
+}
+
+hr {
+  border-top: dotted 5px #309898;
+  width: 30%;
+  border-bottom: none;
+}
+
+.btn {
+  display: inline-block;
+  margin: 15px;
+  padding: 10px;
+  cursor: pointer;
+  background-color: #439a97;
+  color: #97dece;
+  border-radius: 15px;
+  box-shadow: 3px 9px #999;
+}
+
+.btn:hover {
+  background-color: #147878;
+}
+
+.btn:active {
+  background-color: #147878;
+  box-shadow: 3px 5px #666;
+  transform: translateY(4px);
+}
+
+.footer-link {
+  margin: 10px 30px;
+}
