@@ -13,7 +13,7 @@
 
 - :email: <span style="font-weight: bolder">Email</span> : ersin.mutlu@outlook.com.tr
 - :globe_with_meridians: <span style="font-weight: bolder">Website</span> : https://www.ersinm.com
-- :link: <span style="font-weight: bolder">Linkedin</span> : https://www.linkedin.com/in/ersin-mutlu-b0a0a0a3/
+- :link: <span style="font-weight: bolder">Linkedin</span> : [https://www.linkedin.com/in/ersin-mutlu-b0a0a0a3/](https://www.linkedin.com/in/ersin-mutlu-81224918/)
 
 #
 
