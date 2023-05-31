@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gorbadil&theme=tokyonight)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=gorbadil&show_icons=true&theme=tokyonight)
+![](https://visitor-badge.laobi.icu/badge?page_id=CharalambosIoannou.CharalambosIoannou)
+
+
+
+
 <!--
 **gorbadil/gorbadil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
