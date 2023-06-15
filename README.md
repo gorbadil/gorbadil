@@ -6,7 +6,6 @@
 
 #
 
-<img src="https://github-readme-stats.vercel.app/api?username=gorbadil&show_icons=true&theme=dracula&hide_border=true"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=gorbadil&hide=html&layout=compact&theme=dracula&hide_border=true"/>
 
 # Contact Me
