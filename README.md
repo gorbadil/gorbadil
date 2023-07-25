@@ -1,7 +1,7 @@
 # Hi. My name is Ersin
 
-- :heavy_exclamation_mark: I’m currently learning JavaScript / ReactJS
-- :heavy_exclamation_mark: I’m pursuing Front-End Developer Program
+- :heavy_exclamation_mark: I’m currently learning Angular
+- :heavy_exclamation_mark: I’m pursuing Patika.Dev Mid Level Front End Path
 - :white_check_mark: I have completed my Bachelor of Computer Science
 
 #
