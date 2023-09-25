@@ -1,6 +1,6 @@
 # Hi. My name is Ersin
 
-- :heavy_exclamation_mark: I’m currently learning Angular
+- :heavy_exclamation_mark: I’m currently learning Swift/iOS Development
 - :white_check_mark: I have completed my Patika.Dev Advanced Level Front End Path
 
 #
