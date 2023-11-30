@@ -1,8 +1,5 @@
 # Hi. My name is Ersin
 
-- :heavy_exclamation_mark: I’m currently learning Swift/iOS Development
-- :white_check_mark: I have completed my Patika.Dev Advanced Level Front End Path
-
 #
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=gorbadil&hide=html&layout=compact&theme=dracula&hide_border=true"/>
