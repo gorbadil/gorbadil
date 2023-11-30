@@ -1,6 +1,6 @@
 # Hi. My name is Ersin
 
-<img src="https://pleated-jeans.com/wp-content/uploads/2021/08/funny-programmer-memes-6.jpg"/>
+<img src="https://remote-tools-images.s3.amazonaws.com/programmer-memes/5.jpg"/>
 
 #
 
