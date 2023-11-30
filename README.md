@@ -1,5 +1,7 @@
 # Hi. My name is Ersin
 
+<img src="https://pleated-jeans.com/wp-content/uploads/2021/08/funny-programmer-memes-6.jpg"/>
+
 #
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=gorbadil&hide=html&layout=compact&theme=dracula&hide_border=true"/>
