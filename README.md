@@ -6,10 +6,6 @@
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=gorbadil&hide=html&layout=compact&theme=merko&hide_border=true"/>
 
-![gorbadil's Stats](https://github-readme-stats.vercel.app/api?username=gorbadil&theme=merko&show_icons=true&hide_border=true&count_private=true)
-
-![gorbadil's Streak](https://github-readme-streak-stats.herokuapp.com/?user=gorbadil&theme=merko&hide_border=true)
-
 # Contact Me
 
 - :email: <span style="font-weight: bolder">Email</span> : ersin.mutlu@outlook.com.tr
