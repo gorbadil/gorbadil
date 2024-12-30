@@ -9,7 +9,7 @@
 - :email: <span style="font-weight: bolder">Email</span> : ersin.mutlu@outlook.com.tr
 - :globe_with_meridians: **Website**: https://www.ersinm.com
 - :link: <span style="font-weight: bolder">Linkedin</span> : [https://www.linkedin.com/](https://www.linkedin.com/in/ersin-mutlu-81224918/)
-- :medium: <span style="font-weight: bolder">Medium</span> : [https://ersinmutlu.medium.com/](https://medium.com/@gorbadil)
+- 📝 <span style="font-weight: bolder">Medium</span> : [https://ersinmutlu.medium.com/](https://medium.com/@gorbadil)
 
 #
 
